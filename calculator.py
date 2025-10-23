@@ -266,7 +266,6 @@ def resize_fonts(event):
         if isinstance(child, tk.Button):
             child.config(font=("Arial", new_button_font_size, "bold"))
 
-
 window.bind("<Configure>", resize_fonts)
 
 # Center the window
