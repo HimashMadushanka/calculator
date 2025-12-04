@@ -1052,6 +1052,7 @@ Version 2.0 - Enhanced Edition
     def run(self):
         self.window.mainloop()
 
+
 if __name__ == "__main__":
     app = Calculator()
     app.run()
