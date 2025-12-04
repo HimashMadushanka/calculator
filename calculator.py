@@ -15,7 +15,7 @@ button_values = [
     # Row 5: Numbers 1-3 and operations
     ["1", "2", "3", "+", "(", ")", "!", "±"],
     # Row 6: Bottom row with extended functions
-    ["0 ", ".", "=", "Undo", "Redo", "Copy", "Paste", "±"]
+    ["0", ".", "=", "Undo", "Redo", "Copy", "Paste", "±"]
 ]
 
 # Enhanced color scheme with gradients simulation
