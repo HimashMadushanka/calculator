@@ -2,14 +2,20 @@ import tkinter as tk
 from tkinter import ttk
 import math
 
-# Button layout
+# REARRANGED Button layout for better organization
 button_values = [
+    # Row 1: Memory functions
     ["MC", "MR", "M+", "M-", "MS", "M▾"],
-    ["%", "CE", "C", "⌫", "1/x", "x²", "√", "÷"],
+    # Row 2: Clear functions and basic operations
+    ["CE", "C", "⌫", "%", "1/x", "x²", "√", "÷"],
+    # Row 3: Numbers 7-9 and operations
     ["7", "8", "9", "×", "sin", "cos", "tan", "π"],
+    # Row 4: Numbers 4-6 and operations
     ["4", "5", "6", "-", "log", "ln", "e", "xʸ"],
+    # Row 5: Numbers 1-3 and operations
     ["1", "2", "3", "+", "(", ")", "!", "±"],
-    ["0", ".", "=", "±", "Undo", "Redo", "Copy", "Paste"]
+    # Row 6: Bottom row with extended functions
+    ["0 ", ".", "=", "Undo", "Redo", "Copy", "Paste", "±"]
 ]
 
 # Enhanced color scheme with gradients simulation
