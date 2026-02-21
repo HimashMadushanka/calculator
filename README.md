@@ -50,8 +50,7 @@ Centered window on startup
 
 
 ## 📸 Screenshots
-<img width="600" height="981" alt="image" src="https://github.com/user-attachments/assets/dcef8c79-2f8c-4bc5-abe1-d1ec321f1475" />
-
+<img width="597" height="978" alt="image" src="https://github.com/user-attachments/assets/e03f9628-a2f4-43d1-a483-cc02f11a5438" />
 
 
 ## 🙏 Acknowledgments
