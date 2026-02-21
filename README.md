@@ -1,28 +1,37 @@
 # QuickCalc Pro - Scientific Calculator 🧮
 
+## 🚀 Project Overview
+
+QuickCalc Pro is designed to provide:
+Accurate scientific calculations
+Smooth and modern UI experience
+Advanced memory management
+Full keyboard shortcut support
+Error-safe calculations
+It is ideal for students, developers, engineers, and professionals.
+
+
 ## ✨ Features
 
 ### 🎨 Modern Interface
-- Dual theme support (Dark/Light mode)
-- Smooth hover animations and button effects
-- Dynamic font sizing for display
-- Professional color-coded buttons
-- Glowing display animations
+Dual theme support (Dark/Light mode)
+Smooth hover animations and button effects
+Dynamic font sizing for display
+Professional color-coded buttons
+Glowing display animations
 
 ### 🧮 Calculation Capabilities
-- Basic Arithmetic: Addition, Subtraction, Multiplication, Division
-- Scientific Functions:
-
+Basic Arithmetic: Addition, Subtraction, Multiplication, Division
+Scientific Functions:
 Trigonometric (sin, cos, tan in degrees)
 Logarithmic (log, ln)
 Exponents and roots (x², √, xʸ)
 Factorial (!)
 Reciprocal (1/x)
-
-- Constants: π (pi), e (Euler's number)
-- Parentheses Support: Complex expressions with ( )
-- Percentage Calculations
-- Sign Toggle (±)
+Constants: π (pi), e (Euler's number)
+Parentheses Support: Complex expressions with ( )
+Percentage Calculations
+Sign Toggle (±)
 
 ### 💾 Memory Management
 MC - Memory Clear
@@ -54,7 +63,7 @@ Centered window on startup
 
 
 ## 🙏 Acknowledgments
-- Python Software Foundation for the amazing Python language
-- Tkinter developers for the GUI toolkit
-- Open source community for inspiration and support
-- Users for feedback and suggestions
+Python Software Foundation for the amazing Python language
+Tkinter developers for the GUI toolkit
+Open source community for inspiration and support
+Users for feedback and suggestions
