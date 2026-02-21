@@ -57,7 +57,6 @@ Auto-formatting of results
 Error handling with user-friendly messages
 Centered window on startup
 
-
 ## 📸 Screenshots
 <img width="597" height="978" alt="image" src="https://github.com/user-attachments/assets/e03f9628-a2f4-43d1-a483-cc02f11a5438" />
 
