@@ -49,8 +49,10 @@ Error handling with user-friendly messages
 Centered window on startup
 
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📸 Screenshots
+<img width="600" height="981" alt="image" src="https://github.com/user-attachments/assets/dcef8c79-2f8c-4bc5-abe1-d1ec321f1475" />
+
+
 
 ## 🙏 Acknowledgments
 - Python Software Foundation for the amazing Python language
